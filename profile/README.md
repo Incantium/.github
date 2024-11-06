@@ -7,7 +7,6 @@ just a little bit easier every day.
 
 | Repository                                                                                          | Status             | Description                                                                                                    |
 |-----------------------------------------------------------------------------------------------------|--------------------|----------------------------------------------------------------------------------------------------------------|
-| [At your Mercy](https://github.com/Incantium/At-your-Mercy)                                         | Done               | An Unity project made for the 'Create a High-end Video Game' minor at the HAN_ University of Applied Sciences. |
 | [Audio Player Plus](https://github.com/Incantium/Audio-Player-Plus)                                 | Done               | An extendable audio mixer with better control over volume and looping.                                         |
 | [Task Driven Threading](https://github.com/Incantium/Task-Driven-Threading)                         | Initial release    | A simple and lightweight alternative to multithreading in Unity.                                               |
 | [Incantium Core](https://github.com/Incantium/Incantium-Core)                                       | Active development | Package with general useful code required for any good game.                                                   |
