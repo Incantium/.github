@@ -38,6 +38,7 @@ updates!
 | [Required](https://github.com/Incantium/Required)                           | Done     | Make your Unity reference fields required, so they always must be set.                                              |
 | Scene Reference                                                             | Planned  | Reference scenes from within the Unity Editor.                                                                      |
 | Scriptable Events                                                           | Progress | Create, test, and manage ScriptableObject events.                                                                   |
+| [Scriptable Events](https://github.com/Incantium/Scriptable-Events)         | Done     | Use ScriptableObjects with events to send messages throughout your game.                                            |
 | Serialize Interface                                                         | Planned  | Make it possible to created Unity Editor references with C# interfaces.                                             |
 | Singleton                                                                   | Planned  | Make from any class a singleton, ready to be used everywhere.                                                       |
 | Tag Mask                                                                    | Planned  | A better solution to reference tags in the Unity Editor.                                                            |
