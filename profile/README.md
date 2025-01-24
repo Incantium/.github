@@ -36,7 +36,7 @@ updates!
 | Read Only                                                                   | Planned  | Make serialized fields easily read only in the Unity Editor.                                                        |
 | Relational Script Object Notation                                           | Planned  | An alternative to JSON with innate capabilities for relational linking between data structures.                     |
 | [Required](https://github.com/Incantium/Required)                           | Done     | Make your Unity reference fields required, so they always must be set.                                              |
-| Scene Reference                                                             | Progress | Reference scenes from within the Unity Editor.                                                                      |
+| [Scene Reference](https://github.com/Incantium/Scene-Reference)             | Done     | Reference scenes from within the Unity Editor.                                                                      |
 | [Scriptable Events](https://github.com/Incantium/Scriptable-Events)         | Done     | Use ScriptableObjects with events to send messages throughout your game.                                            |
 | Serialize Interface                                                         | Planned  | Make it possible to created Unity Editor references with C# interfaces.                                             |
 | Tag Mask                                                                    | Planned  | A better solution to reference tags in the Unity Editor.                                                            |
