@@ -31,7 +31,7 @@ updates!
 | Bounded Value                                                               | Planned  | Make your C# variables just as safe as using the Min or Range attribute in the Unity Editor.                        |
 | Button                                                                      | Planned  | Make methods in scripts show a button in the Unity Editor able to be clicked.                                       |
 | Easing out                                                                  | Planned  | Use a wide array of useful easing functions or create your own extendable ScriptableObjects.                        |
-| Play as Build                                                               | Planned  | An easy way to test your game as a build, all from the Unity Editor.                                                |
+| Play as Build                                                               | Progress | An easy way to test your game as a build, all from the Unity Editor.                                                |
 | Play Initializer                                                            | Planned  | The functionality to load in multiple scenes and game object at the start of playing the game, fully automatically. |
 | Read Only                                                                   | Planned  | Make serialized fields easily read only in the Unity Editor.                                                        |
 | Relational Script Object Notation                                           | Planned  | An alternative to JSON with innate capabilities for relational linking between data structures.                     |
