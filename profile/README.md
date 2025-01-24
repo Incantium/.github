@@ -39,7 +39,6 @@ updates!
 | Scene Reference                                                             | Progress | Reference scenes from within the Unity Editor.                                                                      |
 | [Scriptable Events](https://github.com/Incantium/Scriptable-Events)         | Done     | Use ScriptableObjects with events to send messages throughout your game.                                            |
 | Serialize Interface                                                         | Planned  | Make it possible to created Unity Editor references with C# interfaces.                                             |
-| Singleton                                                                   | Planned  | Make from any class a singleton, ready to be used everywhere.                                                       |
 | Tag Mask                                                                    | Planned  | A better solution to reference tags in the Unity Editor.                                                            |
 | [Task Driven Threading](https://github.com/Incantium/Task-Driven-Threading) | Done     | A simple and lightweight alternative to multithreading in Unity.                                                    |
 | Waypoints                                                                   | Planned  | Easily create paths in the Unity Editor that AI can follow through complex terrain.                                 |
